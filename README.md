@@ -1,0 +1,4 @@
+- Hello! my name is Fer.
+- My interest goes from music to programming.
+- Atm I am studying JavaScript.
+- You can contact me by f.d.e.1990@gmail.com 
