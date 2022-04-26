@@ -29,7 +29,7 @@ var Morning = () => {
     } 
 }
 Morning();
-}
+
 ```
 
 <h4>And that is all for now </h4>
