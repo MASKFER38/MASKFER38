@@ -18,17 +18,11 @@
  <h3>- Feel free to ask me anything and I will google it for you :satisfied: </h3>
  
 ```js
-var coffee = 1;
-var mate = 1;
-var Morning = () => {
-  if (coffee >= 1){
-    console.log("What a wonderful day");
-    } else {
-    mate = 1;
-    console.log("meh, could be better");
-    } 
+if (confirm("Do you have some coffee??")) {
+    alert("What a wonderful day!");
+} else {
+    alert("Meh, could be better!");
 }
-Morning();
 
 ```
 
